@@ -1,0 +1,40 @@
+body {
+  margin-left: 25%;
+  width: 50%;
+}
+ 
+ 
+.container{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  border: 3px solid green;
+}
+.input-add-product {
+  background-color: black;
+}
+
+
+.container-products{
+  border: 2px solid black;
+  padding: 3%;
+}
+.add-product-button{
+ width: 80%;
+ margin-left: 10%;
+  padding: 5%;
+  background-color: black;
+  color:  white;
+  border-radius: 12px;
+}
+h1{
+  text-decoration: underline;
+}
+h2{
+  text-align: center;
+}
+
+.green{
+  color: green;
+}
